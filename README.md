@@ -5,4 +5,4 @@ Jogo de Par ou Ímpar feito por mim não sei quando e em um dia em que eu estava
 >- Python
 
 ## Autor
-eu
+eu em 2022
